@@ -19,7 +19,7 @@
 > *Results-oriented IIoT and AI Engineering student with a proven record of delivering real-world, scalable technical solutions. Specializing in machine learning, sensor integration, and embedded systems design, I have earned national competition accolades that validate my innovative approach.*
 
 - 🎓 B.Tech. Industrial Internet of Things (2023-2027) at GGSIP University, USAR
-- 🏆 National-level hackathon finalist
+- 🏆 SIH 2024 National FInalist and Delhi Police Cyber Hackathon Winner
 - 🔍 Currently working on: **AI-Powered Plant Location Optimization System**
 - 🌱 Exploring advanced ML model deployment and edge computing
 - 🥋 Black Belt in Karate Shito-ryu Sanshinkan
