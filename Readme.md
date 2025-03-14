@@ -1,31 +1,214 @@
-<h1 align="center">Hi 👋, I'm Samridh Singh</h1>
-<h3 align="center">Building the Future with AI, ML, and IoT</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Github Snake Animation" width="100%"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samridhvaasu&label=Profile%20views&color=0e75b6&style=flat" alt="samridhvaasu" /> </p>
+# <div align="center">SAMRIDH SINGH</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samridhvaasu" alt="samridhvaasu" /></a> </p>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&lines=IIoT+%26+AI+Engineering+Student;Delhi+Police+Hackathon+Winner;Smart+India+Hackathon+National+Finalist;Black+Belt+in+Karate;Building+Industrial+Intelligence+Solutions" alt="Typing SVG" /></a>
+</div>
 
-- 🔭 I’m currently working on **AI-Powered Plant Location Optimization System**
+<div align="center">
+  <a href="https://www.linkedin.com/in/samridhvaasu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:samridh@iiotengineers.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.iiotengineers.com"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+</div>
 
-- 🌱 I’m currently learning **Machine Learning, Internet of Things**
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
 
-- 👨‍💻 All of my projects are available at [iiotengineers.com](iiotengineers.com)
+> *Results-oriented IIoT and AI Engineering student with a proven record of delivering real-world, scalable technical solutions. Specializing in machine learning, sensor integration, and embedded systems design, I have earned national competition accolades that validate my innovative approach.*
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/samridhvaasu/](https://www.linkedin.com/in/samridhvaasu/)
+- 🎓 B.Tech. Industrial Internet of Things (2023-2027) at GGSIP University, USAR
+- 🏆 National-level hackathon winner with 97% accurate solutions
+- 🔍 Currently working on: **AI-Powered Plant Location Optimization System**
+- 🌱 Exploring advanced ML model deployment and edge computing
+- 🥋 Black Belt in Karate Shito-ryu Sanshinkan
 
-- 📫 How to reach me **samridh@iiotengineers.com**
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Key Achievements
 
-- ⚡ Fun fact **I an Karate Black Belt**
+<table>
+  <tr>
+    <td>
+      <img src="https://img.icons8.com/color/48/000000/prize.png" width="40"/>
+    </td>
+    <td>
+      <b>Delhi Police Hackathon Winner</b>: Engineered a sophisticated spam SMS detection system, attaining 97% accuracy in mitigating cyber threats.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.icons8.com/color/48/000000/medal.png" width="40"/>
+    </td>
+    <td>
+      <b>Smart India Hackathon National Finalist</b>: Ranked in the top 5 in our problem statement among 492,960 national participants.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.icons8.com/color/48/000000/conference.png" width="40"/>
+    </td>
+    <td>
+      <b>Hackathon Adjudicator with NYU</b>: Collaborated with NYU and GDG USAR to evaluate 40+ student projects across 5 technical datasets, provided structured feedback to 120+ participants.
+    </td>
+  </tr>
+</table>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/samridhvaasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samridhvaasu" height="30" width="40" /></a>
-</p>
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="28"> Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<div align="center">
+  <h3>AI & Machine Learning</h3>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samridhvaasu&show_icons=true&locale=en&layout=compact" alt="samridhvaasu" /></p>
+  <h3>IoT & Embedded Systems</h3>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/micro:bit-00ED00?style=for-the-badge&logo=micro:bit&logoColor=white"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samridhvaasu&show_icons=true&locale=en" alt="samridhvaasu" /></p>
+  <h3>Web Development & Cloud</h3>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+</div>
 
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Flagship Projects
+
+<details open>
+  <summary><b>🚀 Data Insights and Strategic Unit (DISU) for Department of Posts</b></summary>
+  <br>
+  <p>
+    <img align="right" width="300" src="https://img.icons8.com/plasticine/100/000000/package.png"/>
+    <ul>
+      <li>Developed an IoT-based tracking system using ESP32, GPS, accelerometers, humidity and smoke sensors, blockchain, and RFID</li>
+      <li>Built real-time dashboard to visualize parcel conditions across 250+ delivery routes</li>
+      <li>Processed data from 5,000+ IoT sensors with 99.8% accuracy and alert time of <15 seconds</li>
+      <li>Reduced damage incidents by 37% within first quarter of implementation</li>
+    </ul>
+    <br clear="right"/>
+  </p>
+</details>
+
+<details>
+  <summary><b>🔒 SecureSync: AI-Powered Security Pipeline Builder</b></summary>
+  <br>
+  <p>
+    <img align="right" width="300" src="https://img.icons8.com/plasticine/100/000000/security-checked.png"/>
+    <ul>
+      <li>Created hybrid vulnerability detector identifying 97% of synchronization flaws</li>
+      <li>Reduced detection latency by 78% while processing 500+ code blocks per minute</li>
+      <li>Implemented drag-and-drop interface with 35+ pre-built components</li>
+      <li>Decreased workflow setup time by 65% and increased user adoption by 42%</li>
+    </ul>
+    <br clear="right"/>  
+  </p>
+</details>
+
+<details>
+  <summary><b>🎬 Safeguarding Stories: Enterprise Digital Watermarking System for Disney</b></summary>
+  <br>
+  <p>
+    <img align="right" width="300" src="https://img.icons8.com/plasticine/100/000000/disney-plus.png"/>
+    <ul>
+      <li>Engineered watermark solution with 98% extraction accuracy under JPEG compression</li>
+      <li>Implemented multi-threaded processing reducing embedding time by 65%</li>
+      <li>Maintained high image quality with average PSNR of 42dB</li>
+      <li>Created user-friendly CLI enabling 80% faster data retrieval</li>
+    </ul>
+    <br clear="right"/>
+  </p>
+</details>
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Experience & Leadership
+
+<table>
+  <tr>
+    <td width="70">
+      <img src="https://img.icons8.com/color/48/000000/google-logo.png" width="40"/>
+    </td>
+    <td>
+      <b>AIML Co-lead, Google Developers Group USAR</b><br>
+      Organized technical events including TechWinterBreak workshops with 120+ participants. Co-organized inter-college hackathon with NYU professor drawing 100+ participants.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.icons8.com/color/48/000000/ieee.png" width="40"/>
+    </td>
+    <td>
+      <b>Executive Member, IEEE USAR</b><br>
+      Led workshops on IoT, embedded systems, and AI with 100+ student attendance per workshop. Fostered technical knowledge sharing.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.icons8.com/color/48/000000/internship.png" width="40"/>
+    </td>
+    <td>
+      <b>Image Processing Intern, IETE (Aug 2023 - Sep 2023)</b><br>
+      Developed and optimized real-time object detection models using OpenCV. Reduced inference latency by 30%, achieving detection at 25 FPS on standard hardware.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.icons8.com/color/48/000000/dashboard.png" width="40"/>
+    </td>
+    <td>
+      <b>IoT Intern, Pantech e Learning (Jun 2023 - Jul 2023)</b><br>
+      Built IoT systems using Arduino and microcontrollers. Integrated sensor data from over 10 sources, reducing processing latency by 35% for real-time applications.
+    </td>
+  </tr>
+</table>
+
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30"> GitHub Stats
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=samridhvaasu&show_icons=true&count_private=true&hide_border=true&title_color=38BDAE&icon_color=38BDAE&text_color=c9d1d9&bg_color=0d1117" alt="Samridh Singh github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samridhvaasu&layout=compact&hide_border=true&title_color=38BDAE&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img height="195px" alt="Samridh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=samridhvaasu&theme=gotham&hide_border=true&background=0D1117&stroke=0000&ring=38BDAE&fire=38BDAE&currStreakLabel=38BDAE" />
+</div>
+
+## <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="30"> Certifications & Skills
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Google%20Cloud-Computing%20Foundations%20%26%20Generative%20AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IIT%20Delhi-5G%20and%20Beyond%20Conference-FF6F00?style=for-the-badge&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IIT%20Delhi-IoT%20Mobile%20Robotics-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn%20Learning-Ethics%20in%20Generative%20AI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IEEE%20USAR-Enabling%20Massive%20IoT%20with%20LPWAN-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
+</div>
+
+## <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="30"> Beyond Tech
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="33%" align="center">
+        <img src="https://img.icons8.com/color/48/000000/karate.png" width="50"/><br>
+        <b>Black Belt Karateka</b><br>
+        <span>Multiple medals and exceptional discipline</span>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://img.icons8.com/color/48/000000/podium-with-speaker.png" width="50"/><br>
+        <b>Model UN Delegate</b><br>
+        <span>Public speaking and negotiation skills</span>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://img.icons8.com/color/48/000000/idea-sharing.png" width="50"/><br>
+        <b>Innovation Enthusiast</b><br>
+        <span>Regular hackathon participant</span>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
