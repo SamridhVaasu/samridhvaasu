@@ -78,59 +78,12 @@
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Flagship Projects
-
-<details open>
-  <summary><b>🚀 Data Insights and Strategic Unit (DISU) for Department of Posts</b></summary>
-  <br>
-  <p>
-    <img align="right" width="300" src="https://img.icons8.com/plasticine/100/000000/package.png"/>
-    <ul>
-      <li>Developed an IoT-based tracking system using ESP32, GPS, accelerometers, humidity and smoke sensors, blockchain, and RFID</li>
-      <li>Built real-time dashboard to visualize parcel conditions across 250+ delivery routes</li>
-      <li>Processed data from 5,000+ IoT sensors with 99.8% accuracy and alert time of <15 seconds</li>
-      <li>Reduced damage incidents by 37% within first quarter of implementation</li>
-    </ul>
-    <br clear="right"/>
-  </p>
-</details>
-
-<details>
-  <summary><b>🔒 SecureSync: AI-Powered Security Pipeline Builder</b></summary>
-  <br>
-  <p>
-    <img align="right" width="300" src="https://img.icons8.com/plasticine/100/000000/security-checked.png"/>
-    <ul>
-      <li>Created hybrid vulnerability detector identifying 97% of synchronization flaws</li>
-      <li>Reduced detection latency by 78% while processing 500+ code blocks per minute</li>
-      <li>Implemented drag-and-drop interface with 35+ pre-built components</li>
-      <li>Decreased workflow setup time by 65% and increased user adoption by 42%</li>
-    </ul>
-    <br clear="right"/>  
-  </p>
-</details>
-
-<details>
-  <summary><b>🎬 Safeguarding Stories: Enterprise Digital Watermarking System for Disney</b></summary>
-  <br>
-  <p>
-    <img align="right" width="300" src="https://img.icons8.com/plasticine/100/000000/disney-plus.png"/>
-    <ul>
-      <li>Engineered watermark solution with 98% extraction accuracy under JPEG compression</li>
-      <li>Implemented multi-threaded processing reducing embedding time by 65%</li>
-      <li>Maintained high image quality with average PSNR of 42dB</li>
-      <li>Created user-friendly CLI enabling 80% faster data retrieval</li>
-    </ul>
-    <br clear="right"/>
-  </p>
-</details>
-
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Experience & Leadership
 
 <table>
   <tr>
     <td width="70">
-      <img src="https://img.icons8.com/color/48/000000/google-logo.png" width="40"/>
+      <img src="" width="40"/>
     </td>
     <td>
       <b>AIML Co-lead, Google Developers Group USAR</b><br>
@@ -139,7 +92,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://img.icons8.com/color/48/000000/ieee.png" width="40"/>
+      <img src="" width="40"/>
     </td>
     <td>
       <b>Executive Member, IEEE USAR</b><br>
@@ -176,39 +129,3 @@
 <div align="center">
   <img height="195px" alt="Samridh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=samridhvaasu&theme=gotham&hide_border=true&background=0D1117&stroke=0000&ring=38BDAE&fire=38BDAE&currStreakLabel=38BDAE" />
 </div>
-
-## <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="30"> Certifications & Skills
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Google%20Cloud-Computing%20Foundations%20%26%20Generative%20AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IIT%20Delhi-5G%20and%20Beyond%20Conference-FF6F00?style=for-the-badge&logo=academia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IIT%20Delhi-IoT%20Mobile%20Robotics-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LinkedIn%20Learning-Ethics%20in%20Generative%20AI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IEEE%20USAR-Enabling%20Massive%20IoT%20with%20LPWAN-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
-</div>
-
-## <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="30"> Beyond Tech
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="33%" align="center">
-        <img src="https://img.icons8.com/color/48/000000/karate.png" width="50"/><br>
-        <b>Black Belt Karateka</b><br>
-        <span>Multiple medals and exceptional discipline</span>
-      </td>
-      <td width="33%" align="center">
-        <img src="https://img.icons8.com/color/48/000000/podium-with-speaker.png" width="50"/><br>
-        <b>Model UN Delegate</b><br>
-        <span>Public speaking and negotiation skills</span>
-      </td>
-      <td width="33%" align="center">
-        <img src="https://img.icons8.com/color/48/000000/idea-sharing.png" width="50"/><br>
-        <b>Innovation Enthusiast</b><br>
-        <span>Regular hackathon participant</span>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
